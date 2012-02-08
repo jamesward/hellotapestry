@@ -1,1 +1,1 @@
-web:   java -cp target/dependency/*:target/classes com.howardlewiship.tapx.heroku.JettyMain
+web:   java -cp target/dependency/*:target/classes com.howardlewisship.tapx.heroku.JettyMain
